@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { Component as BackgroundSnippet } from "./components/ui/background-snippets";
+
 import DemoSnippet from "./components/ui/demo";
 import { MapPin } from "lucide-react";
 import "../style.css";
